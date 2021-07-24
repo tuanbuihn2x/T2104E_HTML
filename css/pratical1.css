@@ -1,0 +1,7 @@
+.table input:hover{
+    background-color: violet;
+}
+.table a{
+    color: black;
+    text-decoration: none;
+}
